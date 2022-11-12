@@ -1,0 +1,13 @@
+
+VARIABLES: guardan el valor de algo que se va a usar mas tarde.
+
+Instrumentos de cuerda: son objetos que generan sonido al tocar sus cuerdas
+
+Funciones: agrupan codigo que luego se puede invocar
+
+Funcion argumento: es llamar una variable en la funcion 
+
+Declaraciones if: es comparar cosas 
+
+Booleanos: es el resultado de una comparacion, si se cumplen los criterios es verdadero, si no se cumplen es falso
+
