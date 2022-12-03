@@ -1,0 +1,2 @@
+prototype: son las funciones que traen por defecto los objetos que creamos 
+constructores de clase: permiten asignarle valor a los objetos 
